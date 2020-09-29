@@ -4,7 +4,7 @@
   "description": "Adopt the Armirage Coding Style with this ESLint shareable config. Extend your editor to get real time warnings and errors.",
   "main": "index.js",
   "scripts": {
-    "build:release": "mkdir release && cp -r src/. release && cp LICENSE.md release && cp README.md release",
+    "build:release": "mkdir release && cp -r src/. release && cp LICENSE.md release && cp README.md release && cp package.json release",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
