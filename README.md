@@ -87,7 +87,7 @@ To complete installation See [Usage](#usage).
 Once the eslint-config-armirage package is installed, you can activate the rules in the ESLint configuration file.
 
 // .eslintrc.json
-```javascript
+```json
 {
   "extends": "@armirage/eslint-config-armirage",
   "rules": {}
@@ -97,12 +97,12 @@ Once the eslint-config-armirage package is installed, you can activate the rules
 There are several rules in the eslint:recommended ruleset that Armirage does set. Rules we feel are better handled on a case for case basis. You might want to enforce these rules in your project for a more complete implementation.
 
 // .eslintrc.json
-```javascript
+```json
 {
   "extends": [
-		"eslint:recommended",
-		"@armirage/eslint-config-armirage"
-		],
+    "eslint:recommended",
+    "@armirage/eslint-config-armirage"
+  ],
   "rules": {}
 }
 ```
@@ -114,15 +114,15 @@ You can mix in other ESLint sharable configs, and extend them as well. The last 
 You can also override individual rules. This can be helpful to apply rules per project. For instance I often use the following:
 
 // .eslintrc.json
-```javascript
+```json
 {
-	"extends": [
-		"eslint:recommended",
-		"@armirage/eslint-config-armirage"
-	],
-	"rules": {
-		"prefer-destructuring": ["warn", {"object": true, "array": true}]
-		}
+  "extends": [
+    "eslint:recommended",
+    "@armirage/eslint-config-armirage"
+  ],
+  "rules": {
+    "prefer-destructuring": ["warn", {"object": true, "array": true}]
+  }
 }
 ```
 
