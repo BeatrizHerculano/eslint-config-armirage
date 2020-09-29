@@ -1,0 +1,32 @@
+{
+  "name": "@armirage/eslint-config-armirage",
+  "version": "1.0.1",
+  "description": "Adopt the Armirage Coding Style with this ESLint shareable config. Extend your editor to get real time warnings and errors.",
+  "main": "index.js",
+  "scripts": {
+    "build:release": "mkdir release && cp -r src/. release && cp LICENSE.md release && cp README.md release",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armirage/eslint-config-armirage.git"
+  },
+  "keywords": [
+    "armirage",
+    "coding style",
+    "eslint",
+    "eslint config"
+  ],
+  "author": "Clinton Mulligan",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/armirage/eslint-config-armirage/issues"
+  },
+  "homepage": "https://github.com/armirage/eslint-config-armirage#readme",
+  "peerDependencies": {
+    "eslint": ">= 3"
+  },
+  "devDependencies": {
+    "eslint": "^7.10.0"
+  }
+}
