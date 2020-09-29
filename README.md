@@ -36,6 +36,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/armirage/eslint-config-armirage)](https://github.com/armirage/eslint-config-armirage/issues/)
 [![Github code size](https://img.shields.io/github/languages/code-size/armirage/eslint-config-armirage)](https://github.com/armirage/eslint-config-armirage/releases)
 [![GitHub license](https://img.shields.io/github/license/armirage/eslint-config-armirage)](https://github.com/armirage/eslint-config-armirage/blob/master/LICENSE.md)
+[![armirage-style](https://img.shields.io/badge/code%20style-armirage-brightgreen)](https://github.com/armirage/eslint-config-armirage)
 
 > A consistent style makes code easier to read, debug, and helps catch errors. It takes a team of 100 programmers to come together and write the next big application, yet it should look as if one person coded it. With the aid of linters, code can be programmatically checked for adherence to a convention. Making everyone's work easy to mesh together into one cohesive source of truth.
 
