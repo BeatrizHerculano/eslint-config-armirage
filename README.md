@@ -69,7 +69,7 @@ To install ESLint and Armirage sharable config, run the following commands in th
 ```console
 npm install eslint @armirage/eslint-config-armirage --save-dev
 ```
-:pencil: NOTE: The sharable config is a scoped npm package and will need to be referenced that way.
+* :pencil: NOTE: The sharable config is a scoped npm package and will need to be referenced that way.
 
 This will save both as developer dependencies. Linters are development tools and unnecessary in production builds.
 
@@ -78,7 +78,7 @@ While in the terminal, create the configuration file `.eslintrc.json`
 ```console
 touch .eslintrc.json
 ```
-:pencil: NOTE: The `.eslintrc.json` begins with a period. This is a hidden file on many systems. To see it, enable 'show hidden files' for your OS.
+* :pencil: NOTE: The `.eslintrc.json` begins with a period. This is a hidden file on many systems. To see it, enable 'show hidden files' for your OS.
 
 To complete installation See [Usage](#usage).
 
