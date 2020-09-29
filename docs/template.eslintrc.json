@@ -1,0 +1,9 @@
+{
+	"extends": [
+		"eslint:recommended",
+		"@armirage/eslint-config-armirage"
+	],
+	"rules": {
+		"prefer-destructuring": ["warn", {"object": true, "array": true}]
+		}
+}
