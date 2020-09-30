@@ -1,4 +1,4 @@
-<!-- armirage .github index.md -->
+<!-- armirage eslint-config-armirage index.md -->
 [Available Languages](#available-languages)\
 &nbsp;
 
