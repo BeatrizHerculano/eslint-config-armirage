@@ -1,6 +1,6 @@
 {
   "name": "@armirage/eslint-config-armirage",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Adopt the Armirage Coding Style with this ESLint shareable config. Extend your editor to get real time warnings and errors.",
   "main": "index.js",
   "scripts": {
