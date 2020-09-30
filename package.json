@@ -17,22 +17,12 @@
     "eslint",
     "eslint config"
   ],
-  "homepage": "https://github.com/armirage/eslint-config-armirage#readme",
   "author": "Clinton Mulligan",
   "license": "BSD-3-Clause",
-  "funding": [
-    {
-      "type" : "Liberapay",
-      "url" : "https://en.liberapay.com/armirage"
-    },
-    {
-      "type" : "PayPal",
-      "url" : "https://www.paypal.com/paypalme/armirage"
-    }
-  ],
   "bugs": {
     "url": "https://github.com/armirage/eslint-config-armirage/issues"
   },
+  "homepage": "https://github.com/armirage/eslint-config-armirage#readme",
   "peerDependencies": {
     "eslint": ">= 3"
   },
