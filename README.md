@@ -23,6 +23,7 @@
 &nbsp;
 <!-- Content -->
 <!-- Workaround to display <h1> coreectly in NPM lest it duplicate rendering. -->
+<!-- omit in toc -->
 # <sup><em>@armirage/</em></sup>eslint-config-armirage&nbsp;&nbsp;<a href="https://www.npmjs.com/package/@armirage/eslint-config-armirage" alt="npm package link"><img src="https://armirage.github.io/images/external-companies/npm/npm-logo/classic/npm-2009.svg" alt="npm logo" width="64"></a>&nbsp;&nbsp;<a href="https://github.com/armirage/eslint-config-armirage" alt="github repo link"><img src="https://armirage.github.io/images/external-companies/github/github-mark/GitHub-Mark-64px.png" alt="github logo" width="32"></a>
 
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/release/armirage/eslint-config-armirage)](https://github.com/armirage/eslint-config-armirage/releases)
