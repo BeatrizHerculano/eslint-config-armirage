@@ -88,7 +88,7 @@ Once the eslint-config-armirage package is installed, you can activate the rules
 }
 ```
 
-There are several rules in the eslint:recommended ruleset that Armirage does set. Rules we feel are better handled on a case for case basis. You might want to enforce these rules in your project for a more complete implementation.
+There are several rules in the eslint:recommended ruleset that Armirage does not set. Rules we opinion on. You might want to enforce these rules in your project for a more complete implementation.
 
 // .eslintrc.json
 ```json
