@@ -144,7 +144,7 @@ Armirage Github repositories and @armirage scoped NPM modules are maintained by 
 
 <b id="sharable-configs-note">[2]:</b> Shareable Configs <https://eslint.org/docs/developer-guide/shareable-configs> [accessed 29 September 2020] [:arrow_heading_up:](#anchor-2)
 
-<b id="eslint-note">[3]:</b> ESLint - Pluggable JavaScript linter <https://eslint.org/> [accessed 29 September 2020] [:arrow_heading_up:](#anchor-2)
+<b id="eslint-note">[3]:</b> ESLint - Pluggable JavaScript linter <https://eslint.org/> [accessed 29 September 2020] [:arrow_heading_up:](#anchor-3)
 
 &nbsp;
 
