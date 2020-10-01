@@ -31,6 +31,7 @@
 [![Github code size](https://img.shields.io/github/languages/code-size/armirage/eslint-config-armirage)](https://github.com/armirage/eslint-config-armirage/releases)
 [![GitHub license](https://img.shields.io/github/license/armirage/eslint-config-armirage)](https://github.com/armirage/eslint-config-armirage/blob/master/LICENSE.md)
 [![armirage-style](https://img.shields.io/badge/code%20style-armirage-brightgreen)](https://github.com/armirage/eslint-config-armirage)
+[![liberapay-patrons](https://img.shields.io/liberapay/patrons/armirage.svg?logo=liberapay)](https://www.liberapay.com/armirage)
 
 > A consistent style makes code easier to read, debug, and helps catch errors. It takes a team of 100 programmers to come together and write the next big application, yet it should look as if one person coded it. With the aid of linters, code can be programmatically checked for adherence to a convention. Making everyone's work easy to mesh together into one cohesive source of truth.
 
@@ -129,6 +130,8 @@ We need more modular rulesets. The base eslint ruleset is ECMAScript 2020. It sh
 Review the [Contributing Guidelines](https://github.com/armirage/.github/blob/master/CONTRIBUTING.md) for ways to make this repository better.
 
 Open Source Software (OSS) is only as strong as our Community.
+
+<a href="https://liberapay.com/armirage/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a> &nbsp; Thank you!
 
 ## Acknowledgements
 
