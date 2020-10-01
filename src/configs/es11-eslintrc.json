@@ -51,7 +51,7 @@
 		"quotes": [ "error", "double", { "allowTemplateLiterals": true } ],
 		"semi": [ "error", "always" ],
 		"semi-spacing": [ "error", { "before": false, "after": true } ],
-		"spaced-comment": [ "error", "always", { "markers": [ "!","#" ], "line": { "exceptions": [ "-" ] } } ],
+		"spaced-comment": [ "error", "always", { "markers": [ "!","#" ], "line": { "exceptions": [ "-", "-+", "*", "=" ] } } ],
 		"space-before-blocks": [ "error" ],
 		"space-before-function-paren": [ "error", "never" ],
 		"space-in-parens": [ "error", "always", { "exceptions": [ "{}", "[]", "()", "empty" ] } ],
