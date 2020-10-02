@@ -57,7 +57,7 @@ Shareable configs <sup id="anchor-2">[2](#sharable-configs-note)</sup> alter or 
 
 ## Install
 
-Open open a terminal in, or change directory to, your working directory. This should be the project folder with NPM's `package.json` in it.
+Open a terminal in, or change directory to, your current working directory. This will be the project folder with NPM's `package.json` in it.
 
 To install ESLint and Armirage sharable config, run the following commands in the terminal:
 
